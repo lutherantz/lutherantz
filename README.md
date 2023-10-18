@@ -1,3 +1,7 @@
+# Seka
+
+![](https://komarev.com/ghpvc/?username=lutherantz&color=green)
+
 -----
 ```css
 ╭──[ Smaug@seka ]
