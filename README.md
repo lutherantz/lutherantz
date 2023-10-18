@@ -1,6 +1,6 @@
 # Seka
 
-![](https://komarev.com/ghpvc/?username=lutherantz&color=green)
+![](https://komarev.com/ghpvc/?username=lutherantz&color=blueviolet)
 
 -----
 ```css
