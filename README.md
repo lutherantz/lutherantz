@@ -6,7 +6,7 @@
 
   #
   
-  <img src="https://github-readme-stats.vercel.app/api?username=lutherantz&theme=midnight-purple&show_icons=true" />
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,php,cs)](https://skillicons.dev)
 </div>
 
 ![Footer](./footer.png)
